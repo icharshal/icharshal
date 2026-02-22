@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Harshal
 
-![Capsule Render](https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Cloud%20&%20AI%20Engineering&fontSize=50&animation=fadeIn&fontColor=fff)
+<p align="center">
+  <img src="https://img.shields.io/badge/Harshal-Cloud_&_AI_Engineering-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="50" />
+</p>
 
 ### 🚀 About Me
 
@@ -41,12 +43,12 @@ I regularly publish deep dives into cloud architecture and DevOps best practices
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icharshal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icharshal&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icharshal&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icharshal&layout=compact&theme=radical" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://img.shields.io/badge/Done_is_better_than_perfect-4285F4?style=flat-square" />
 </p>
