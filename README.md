@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Harshal
 
-![Capsule Render](https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Cloud%20&%20AI%20Engineering&fontSize=50&animation=fadeIn&fontColor=fff)
-
-### 🚀 About Me
+## 🚀 About Me
 
 I am a **Cloud & AI Enthusiast** focused on building scalable, automated, and intelligent systems. I specialize in **DevOps, Kubernetes, and Generative AI**, bridging the gap between infrastructure and artificial intelligence.
 
@@ -12,7 +10,7 @@ I am a **Cloud & AI Enthusiast** focused on building scalable, automated, and in
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+## 🛠️ Tech Stack & Expertise
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -27,7 +25,7 @@ I am a **Cloud & AI Enthusiast** focused on building scalable, automated, and in
 
 ---
 
-### ✍️ Latest Technical Publications
+## ✍️ Latest Technical Publications
 
 I regularly publish deep dives into cloud architecture and DevOps best practices:
 
@@ -38,7 +36,7 @@ I regularly publish deep dives into cloud architecture and DevOps best practices
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icharshal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -46,7 +44,3 @@ I regularly publish deep dives into cloud architecture and DevOps best practices
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
-</p>
