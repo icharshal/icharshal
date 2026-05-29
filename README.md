@@ -88,8 +88,8 @@ I am a specialized **Infrastructure & DevOps Engineer** focused on building prod
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icharshal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icharshal&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=icharshal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icharshal&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
